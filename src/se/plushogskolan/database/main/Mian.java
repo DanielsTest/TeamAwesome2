@@ -25,6 +25,7 @@ public class Mian {
 
 public static void main(String args[]) {
 		//Daniels Test line!!!!
+		//Daniels Test line 2!!!
 		
 		IssueRepository issueRepository = new MySQLIssueRepository();
 		TeamRepository teamRepository = new MySQLTeamRepository();

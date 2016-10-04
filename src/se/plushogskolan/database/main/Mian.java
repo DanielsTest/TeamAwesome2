@@ -24,6 +24,7 @@ import se.plushogskolan.database.services.WorkItemService;
 public class Mian {
 
 public static void main(String args[]) {
+		//Daniels Test line!!!!
 		
 		IssueRepository issueRepository = new MySQLIssueRepository();
 		TeamRepository teamRepository = new MySQLTeamRepository();
